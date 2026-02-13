@@ -107,7 +107,7 @@ Gained a deep understanding of low-level computing and system architecture throu
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Languages" width="25" height="25" /> Languages
+## 🗣️ Languages
 
 - 🌐 **English** - Proficient
 - 🌐 **Arabic** - Native
