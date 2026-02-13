@@ -122,8 +122,6 @@ Gained a deep understanding of low-level computing and system architecture throu
 
 <img src="https://github-readme-stats-rho-three-28.vercel.app/api/top-langs/?username=AlsaeedHasan&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=00e5c7&text_color=e8e8ef&langs_count=8" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlsaeedHasan&theme=radical&hide_border=true&background=0a0a0f&ring=00e5c7&fire=00e5c7&currStreakLabel=00e5c7" alt="GitHub Streak" />
-
 </div>
 
 ---
