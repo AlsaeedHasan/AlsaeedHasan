@@ -154,7 +154,7 @@ I'm open to:
 
 <div align="center">
 
-### � _"Write code that doesn't just work — make it unbreakable."_
+### _"Write code that doesn't just work — make it unbreakable."_
 
 **Ready to build something incredible? Let's talk!** 🚀
 
