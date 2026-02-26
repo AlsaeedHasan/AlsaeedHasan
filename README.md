@@ -6,7 +6,7 @@
 
 _Building secure, scalable APIs with unbreakable foundations_
 
-[![Email](https://img.shields.io/badge/Email-sa3ed7asanofficial%40gmail.com-00e5c7?style=flat-square&logo=gmail&logoColor=white)](mailto:sa3ed7asanofficial@gmail.com)
+[![Email](https://img.shields.io/badge/Email-saeedhasan.dev@gmail.com-00e5c7?style=flat-square&logo=gmail&logoColor=white)](mailto:saeedhasan.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AlsaeedHasan-00e5c7?style=flat-square&logo=github&logoColor=white)](https://github.com/AlsaeedHasan)
 [![Location](https://img.shields.io/badge/Location-Egypt-00e5c7?style=flat-square&logo=google-maps&logoColor=white)](#)
 
