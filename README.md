@@ -146,7 +146,7 @@ I'm open to:
 
 **Reach me at:**
 
-- ✉️ Email: [sa3ed7asanofficial@gmail.com](mailto:sa3ed7asanofficial@gmail.com)
+- ✉️ Email: [saeedhasan.dev@gmail.com](mailto:saeedhasan.dev@gmail.com)
 - 💻 GitHub: [@AlsaeedHasan](https://github.com/AlsaeedHasan)
 - 📞 Phone: +20 120 165 3211
 
